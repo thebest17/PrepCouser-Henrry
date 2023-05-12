@@ -1,2 +1,1 @@
-# PrepCouser-Henrry
-Este es un repositorio de prueba del módulo dos del PrepCouser de Henrry
+prueba de como crear un repositorio y clonarlo dfesde github s mi computadora.
